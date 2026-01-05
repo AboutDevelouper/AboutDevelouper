@@ -18,22 +18,6 @@ Atualmente focado em React, Next.js, TypeScript e no ecossistema Node.js (inclus
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboutDevelouper&layout=compact&theme=radical"/>
 </div>
 
-## 🌱 O que estou aprendendo agora
-
-- React + TypeScript avançado
-- Next.js 14+ (App Router, Server Components, etc.)
-- Arquitetura limpa e boas práticas em backend Node
-- Deploy com Docker e Vercel
-
-## 🔭 Projetos em breve…
-
-Estou finalizando alguns projetos bem legais:
-- Bots avançados para Discord com Discord.js v14
-- Aplicações full-stack com Next.js + Prisma + PostgreSQL
-- Dashboard administrativo com React + Tailwind
-
-Em breve tudo aqui no GitHub!
-
 ## 📫 Como falar comigo
 
 <div align="center">
