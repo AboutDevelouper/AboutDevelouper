@@ -14,7 +14,7 @@ Atualmente focado em React, Next.js, TypeScript e no ecossistema Node.js (inclus
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AboutDevelouper&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=AboutDevelouper&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboutDevelouper&layout=compact&theme=radical"/>
 </div>
 
