@@ -1,24 +1,28 @@
-# 👋 Olá! Bem-vindo(a) ao meu perfil GitHub
+# 👋 Olá! Sou o About Develouper
 
-Desenvolvedor em início de carreira, apaixonado por tecnologia e sempre buscando aprender mais.  
-Atualmente focado em React, Next.js, TypeScript e no ecossistema Node.js (inclusive bots do Discord 🤖).
+Desenvolvedor em início de carreira, apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.  
+Atualmente focado no ecossistema **frontend** com React/Next.js e **backend** com Node.js (inclusive bots do Discord 🤖).
 
-## 🚀 Tecnologias que mais uso e amo
+## 🚀 Tecnologias que domino e utilizo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,pnpm,docker,vercel" /><br/>
-  <img src="https://skillicons.dev/icons?i=discord,discordjs,bots,github,postman,figma,devto" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,pnpm,docker,vercel" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=discord,discordjs,github,postman,figma,devto" />
 </div>
 
-## 📊 Minhas estatísticas no GitHub
+## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=AboutDevelouper&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AboutDevelouper&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboutDevelouper&layout=compact&theme=radical"/>
 </div>
 
-## 📫 Como falar comigo
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AboutDevelouper&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+## 📫 Como entrar em contato
 
 <div align="center">
   <a href="mailto:fight.develouper@gmail.com">
@@ -32,7 +36,7 @@ Atualmente focado em React, Next.js, TypeScript e no ecossistema Node.js (inclus
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AboutDevelouper&color=blueviolet&style=flat-square&label=VISITANTES" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AboutDevelouper&color=blueviolet&style=flat-square&label=VISITAS+NO+PERFIL" alt="Profile views"/>
 </div>
 
 <div align="center">
