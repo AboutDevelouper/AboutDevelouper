@@ -12,28 +12,22 @@ Currently focused on the **frontend** ecosystem with React/Next.js and **backend
   <img src="https://skillicons.dev/icons?i=discord,discordjs,github,postman,figma,devto" />
 </div>
 
-## 📫 How to reach me
+### A little more about me...
 
-<div align="center">
-  <a href="mailto:fight.develouper@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://discord.com/users/855304431347040336">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
-
-<br>
-
-const develouper = {
+```javascript
+const walison = {
   pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["React", "Next.js", "Node.js", "Express", "Prisma", "Tailwind", "Vite", "Docker"],
-  currentFocus: "Building awesome web apps (frontend + backend)",
-  funFact: "Powered solely by coffee ☕",
-  challenge: "Coding websites and web apps all day, fueled only by coffee",
+  frontend: ["React", "Next.js", "Tailwind CSS", "Vite"],
+  backend: ["Node.js", "Express", "Prisma", "PostgreSQL", "MySQL"],
+  tools: ["Docker", "Vercel", "Postman", "Figma"],
+  currentFocus: "Building modern web apps – frontend to backend",
+  fueledBy: "Coffee ☕ (lots of it)",
+  funFact: "Coding websites and web apps all day, powered solely by coffee",
   communities: {
-    discord: "Building bots 🤖",
-    openSource: "Contributing whenever I can"
-  }
+    discord: "Creating and maintaining bots 🤖",
+    openSource: "Contributing when I can"
+  },
+  challenge: "Always learning and shipping new features"
 };
+```
